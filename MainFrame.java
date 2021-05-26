@@ -120,7 +120,7 @@ public class MainFrame extends JFrame implements ActionListener {
 //		  currentId = 0; // 현재 선택된 이미지 번호
 //		  lblPt[i] = new JLabel(poster[currentId]); // 현재 선택된 이미지를 레이블에 출력
 //	 }
-	 
+//	 
 //	pt1 = new ImageIcon("image/j1.jpg");
 //	pt2 = new ImageIcon("image/j2.jpg");
 //	pt3 = new ImageIcon("image/j3.jpg");
